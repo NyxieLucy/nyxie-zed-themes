@@ -11,7 +11,7 @@ basically a collection of pastel colored themes for your coding IDE [ZED EDITOR]
 
 ## Installation 
 
-### Manual Installation
+### Manual Installation 
 1. Navigate to your Zed extensions directory (usually `~/.config/zed/extensions/` or use the command palette `zed: open extensions directory`), or just go to extentions and add extension, themes and type `Pastel Glow Theme`.
 2. Clone this repository:
    ```bash
