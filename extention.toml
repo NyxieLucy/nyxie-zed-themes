@@ -1,0 +1,14 @@
+id = "nyx-pastel-glow"
+name = "Pastel Glow Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Nyx nyxlucianis@gmail.com"]
+description = "A cute, pastel centric aesthetic for the Zed IDE."
+repository = "https://github.com/NyxieLucy/zed-themes"
+
+
+Themes = [
+    "themes/Sakura_Dream.json",
+    "themes/Sakura_Dream_Dark.json",
+    "themes/Midnight_Lavender.json"
+]
