@@ -1,7 +1,7 @@
 #  Pastel Zed IDE Theme Pack (since there ain't no theme i liked)
 basically a collection of pastel colored themes for your coding IDE [ZED EDITOR]i'm still adding more, just gotta find the right color palette, or maybe the mood. 
 
-## g The Collection
+## The Collection
 
 | Theme           | Appearance | Description                                                      |
 |:----------------|:-----------|:-----------------------------------------------------------------|
@@ -9,7 +9,7 @@ basically a collection of pastel colored themes for your coding IDE [ZED EDITOR]
 | **Sakura Dream Dark** | Dark | High-contrast magenta and deep rose tones for late-night coding. |
 | **Midnight Lavender** | Dark | A celestial, bioluminescent purple theme with neon accents. |
 
-##  Installation
+## Installation 
 
 ### Manual Installation
 1. Navigate to your Zed extensions directory (usually `~/.config/zed/extensions/` or use the command palette `zed: open extensions directory`), or just go to extentions and add extension, themes and type `Pastel Glow Theme`.
