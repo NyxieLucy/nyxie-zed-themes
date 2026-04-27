@@ -1,7 +1,7 @@
 #  Pastel Zed IDE Theme Pack (since there ain't no theme i liked)
 basically a collection of pastel colored themes for your coding IDE [ZED EDITOR]i'm still adding more, just gotta find the right color palette, or maybe the mood. 
 
-##  The Collection
+## g The Collection
 
 | Theme           | Appearance | Description                                                      |
 |:----------------|:-----------|:-----------------------------------------------------------------|
